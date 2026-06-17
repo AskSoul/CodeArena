@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.github.AskSoul.CodeArena.language-demo</groupId>
-    <artifactId>Java_Basics</artifactId>
+    <artifactId>advanced-java</artifactId>
 
     <properties>
         <maven.compiler.source>25</maven.compiler.source>
